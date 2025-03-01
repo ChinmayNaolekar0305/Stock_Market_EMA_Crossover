@@ -101,7 +101,7 @@ Stocks passing the **EMA crossover + MACD + RSI + Stochastic** filter are likely
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/stock-monitoring-system.git
-   cd stock-monitoring-system
+   cd stock_analysis
    ```
 2. Install dependencies:
    ```bash
